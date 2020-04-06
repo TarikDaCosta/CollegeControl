@@ -1,0 +1,164 @@
+C:\outros\meus\CollegeControl\CollegeControl\bin\CollegeControl.dll.config
+C:\outros\meus\CollegeControl\CollegeControl\bin\CollegeControl.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\CollegeControl.pdb
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\csc.exe
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\csc.exe.config
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\csc.rsp
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\csi.exe
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\csi.exe.config
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\csi.rsp
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.AppContext.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Collections.Immutable.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Console.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Globalization.Calendars.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.IO.Compression.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.IO.FileSystem.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Net.Http.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Net.Sockets.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.ValueTuple.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Xml.XPath.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\vbc.exe
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\vbc.exe.config
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\vbc.rsp
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\VBCSCompiler.exe
+C:\outros\meus\CollegeControl\CollegeControl\bin\roslyn\VBCSCompiler.exe.config
+C:\outros\meus\CollegeControl\CollegeControl\bin\Antlr3.Runtime.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\EntityFramework.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\EntityFramework.SqlServer.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\Microsoft.Web.Infrastructure.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\Newtonsoft.Json.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Helpers.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Mvc.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Optimization.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Razor.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.WebPages.Deployment.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.WebPages.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.WebPages.Razor.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\WebGrease.dll
+C:\outros\meus\CollegeControl\CollegeControl\bin\EntityFramework.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\EntityFramework.SqlServer.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Helpers.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Mvc.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Optimization.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.Razor.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.WebPages.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.WebPages.Deployment.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\System.Web.WebPages.Razor.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\Newtonsoft.Json.xml
+C:\outros\meus\CollegeControl\CollegeControl\bin\Antlr3.Runtime.pdb
+C:\outros\meus\CollegeControl\CollegeControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\outros\meus\CollegeControl\CollegeControl\obj\Debug\CollegeControl.csprojAssemblyReference.cache
+C:\outros\meus\CollegeControl\CollegeControl\obj\Debug\CollegeControl.csproj.CopyComplete
+C:\outros\meus\CollegeControl\CollegeControl\obj\Debug\CollegeControl.dll
+C:\outros\meus\CollegeControl\CollegeControl\obj\Debug\CollegeControl.pdb
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\CollegeControl.dll.config
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\CollegeControl.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\CollegeControl.pdb
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\csc.exe
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\csc.exe.config
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\csc.rsp
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\csi.exe
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\csi.exe.config
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\csi.rsp
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.AppContext.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Collections.Immutable.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Console.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Globalization.Calendars.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.IO.Compression.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.IO.FileSystem.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Net.Http.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Net.Sockets.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Reflection.Metadata.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.ValueTuple.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Xml.XPath.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\vbc.exe
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\vbc.exe.config
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\vbc.rsp
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\VBCSCompiler.exe
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\roslyn\VBCSCompiler.exe.config
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Antlr3.Runtime.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\EntityFramework.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\EntityFramework.SqlServer.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Microsoft.Web.Infrastructure.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Newtonsoft.Json.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Helpers.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Mvc.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Optimization.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Razor.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.WebPages.Deployment.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.WebPages.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.WebPages.Razor.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\WebGrease.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\EntityFramework.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\EntityFramework.SqlServer.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Helpers.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Mvc.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Optimization.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.Razor.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.WebPages.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.WebPages.Deployment.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\System.Web.WebPages.Razor.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Newtonsoft.Json.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Antlr3.Runtime.pdb
+C:\outros\meus\CollegeControl - Copia\CollegeControl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\outros\meus\CollegeControl - Copia\CollegeControl\obj\Debug\CollegeControl.csprojAssemblyReference.cache
+C:\outros\meus\CollegeControl - Copia\CollegeControl\obj\Debug\CollegeControl.csproj.CopyComplete
+C:\outros\meus\CollegeControl - Copia\CollegeControl\obj\Debug\CollegeControl.dll
+C:\outros\meus\CollegeControl - Copia\CollegeControl\obj\Debug\CollegeControl.pdb
